@@ -1,0 +1,9 @@
+{
+    "kopeechka": {
+        "kopeechkaToken": "3fa5e16f7fd8623d5ceb1f5e60c13de2",
+        "domain": "lenta.ru"
+    },
+    "apiURL": "http://mail.example.com",
+    "imap": "mail.example.com",
+    "domain": "example.com"
+}
